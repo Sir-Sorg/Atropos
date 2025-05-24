@@ -74,6 +74,6 @@ Make sure your device is connected and authorized via ADB before running.
 * Device architecture detection includes `arm64-v8a`, `armeabi-v7a`, `x86`, `x86_64`
 * Works with <u>**rooted**</u> devices or those with a patched Frida server
 
-🛡️ Disclaimer
+## 🛡️ Disclaimer
 
 This tool is for educational and ethical testing purposes only. Unauthorized use against third-party apps without permission may violate laws or terms of service.
